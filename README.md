@@ -1,5 +1,5 @@
 # Portfolio Site 
-Responsive Portfolio Web App.
+My Personal Responsive Portfolio Web App.
 
 # What I Learned
 * Understanding of UI/UX best-practices.
